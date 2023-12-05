@@ -13,3 +13,6 @@ After cloning the repository, run the following commands to compile and run the 
 $ make all
 $ ./sample sample.asm
 ```
+
+## Pipeline Implementation
+- contains all the required files for 5 stage, 7 stage pipelines and BHR branch predictor.
